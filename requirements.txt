@@ -1,0 +1,4 @@
+matplotlib==3.10.0
+scikit-learn==1.6.1
+
+# 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
