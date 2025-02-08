@@ -4,6 +4,8 @@ from matplotlib.colors import ListedColormap
 from sklearn import datasets, neighbors
 from sklearn.inspection import DecisionBoundaryDisplay
 import numpy as np 
+import pandas as pd
+import random 
 
 if __name__ == "__main__":
     n_neighbors = 15
